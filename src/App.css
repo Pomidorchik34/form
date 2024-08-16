@@ -48,8 +48,8 @@ form {
 }
 .conatainer {
   display: flex;
-  justify-content: end;
-  align-items: end;
+  justify-content: start;
+  align-items: start;
   gap: 20px;
   padding: 0px 180px;
 }
